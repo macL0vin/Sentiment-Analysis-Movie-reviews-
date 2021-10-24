@@ -1,1 +1,1 @@
-# macL0vin-Sentiment-Analysis-Movie-reviews-
+# Sentiment Analysis (Movie reviews)
